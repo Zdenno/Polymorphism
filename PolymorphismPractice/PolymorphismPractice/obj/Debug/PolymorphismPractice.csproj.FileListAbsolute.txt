@@ -1,0 +1,10 @@
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.Properties.Resources.resources
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.csproj.GenerateResource.cache
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.csproj.CoreCompileInputs.cache
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\bin\Debug\PolymorphismPractice.exe.config
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\bin\Debug\PolymorphismPractice.exe
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\bin\Debug\PolymorphismPractice.pdb
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.exe
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.pdb
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.csprojAssemblyReference.cache
+C:\Users\Pc\source\repos\PolymorphismPractice\PolymorphismPractice\obj\Debug\PolymorphismPractice.Form1.resources
